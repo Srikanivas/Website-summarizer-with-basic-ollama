@@ -1,5 +1,7 @@
 # 🌐 Web Summarizer
 
+**Live app:** https://website-summarizer-ollama-builds-unique.streamlit.app
+
 An AI-powered web summarizer built with Streamlit and Groq API.  
 Paste any URL and get an instant markdown summary powered by Llama 3.1.
 
